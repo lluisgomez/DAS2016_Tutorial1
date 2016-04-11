@@ -1,4 +1,6 @@
-# DAS2016_Tutorial1 - "Scene-Text Localization, Recognition, and Understanding"
+# DAS2016_Tutorial1
+
+## "Scene-Text Localization, Recognition, and Understanding"
 
 ### DAS2016 Tutorial 1. Slides and sample code.
 
